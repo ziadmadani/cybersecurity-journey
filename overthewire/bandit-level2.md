@@ -1,4 +1,4 @@
-Objective: Find the password stored in a file called --spaces in this filename-- and use it to log into bandit2.
+Objective: Find the password stored in a file called --spaces in this filename-- and use it to log into the next room.
 
 my first instenct was to use cat./ with the file name as the same with the last room, but didnt work
 
