@@ -1,4 +1,4 @@
-Objective: Find the password stored in a hidden file in the inhere directory use the password to log into the next room.
+Objective: Find the password stored in a hidden file in the inhere directory use it to log into the next room.
 
 after using ls which only listed the directory wihtout the hidden file after failing seeing the hidden file
 
