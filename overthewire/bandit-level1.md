@@ -1,4 +1,4 @@
-Objective: Find the password stored in a file called - and use it to log into bandit2.
+Objective: Find the password stored in a file called - and use it to log into the next room.
 
 i got into a problem that the file wasnt opening with the cat command
 
